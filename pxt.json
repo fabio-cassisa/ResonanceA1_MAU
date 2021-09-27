@@ -1,5 +1,5 @@
 {
-    "name": "ResonanceProj",
+    "name": "ResonanceProj_FINAL",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -23,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
